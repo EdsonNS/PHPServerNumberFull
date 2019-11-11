@@ -1,11 +1,12 @@
 
-
+<pre>
 
 -------------------------------------
    Aplicação PHPServerNumberFull
 -------------------------------------
 
-Aplicação: Números Por Extenso
+Aplicação: Converter Números Por Extenso
+
 Objetivo: Cumprir o desafio de criar um servidor HTTP que, para cada requisição GET, retorne um JSON cuja chave "extenso" seja a versão por extenso do número inteiro enviado no path. 
 
 Exemplos:
@@ -87,3 +88,4 @@ curl -H 'Accept-Language: en' http://localhost:3000/1
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+</pre>
